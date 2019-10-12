@@ -2,6 +2,6 @@ package com.xka.git;
 
 public class Student {
      public static void main(String[] args) {
-		System.out.println("ÄãºÃ");
+		System.out.println("ä½ å¥½ä¸–ç•Œ");
 	}
 }
